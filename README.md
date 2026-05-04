@@ -1,8 +1,8 @@
 # Airlines_Analysis-India--Public
 
 The Detailed Analysis of Indian Airlines.
-#EVERYTHING IS GIVEN IN THE .DOCX FILES GIVEN.
-#Power BI Dashboard
+##EVERYTHING IS GIVEN IN THE .DOCX FILES GIVEN.
+##Power BI Dashboard
 A dashboard is also given for visualization purpose.
 #Conclusion
 1.'Air Asia' offers the cheapest flight tickets while flying Economy class while 'Air India' is cheapest while flying Business class.
