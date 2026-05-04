@@ -1,6 +1,6 @@
 # Airlines_Analysis-India--Public
 
-The Detailed Analysis of Indian Airlines.
+*The Detailed Analysis of Indian Airlines.*
 ##EVERYTHING IS GIVEN IN THE .DOCX FILES GIVEN.
 ##Power BI Dashboard
 A dashboard is also given for visualization purpose.
